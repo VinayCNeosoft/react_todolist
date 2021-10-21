@@ -1,0 +1,19 @@
+{
+    "todos": [
+    {
+      "todo": "bake a cake",
+      "priority":3,
+      "isCompleted": true
+    },
+    {
+      "todo": "go for a walk",
+      "priority":2,
+      "isCompleted": false
+    },
+    {
+      "todo": "Complete assign Work",
+      "priority":5,
+      "isCompleted": false
+    }
+  ]
+}

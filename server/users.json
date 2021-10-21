@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "ABC",
+      "lname": "XYZ",
+      "username": "Abcxyz",
+      "email": "abc@gmail.com",
+      "password": "Abc@1999",
+      "cpassword": "Abc@1999"
+    },
+    {
+      "id": 2,
+      "fname": "aaaa",
+      "lname": "singh",
+      "username": "Anuj",
+      "email": "abc@gmail.com",
+      "password": "Abc@1999",
+      "cpassword": "Abc@1999"
+    },
+    {
+      "id": 3,
+      "fname": "anuj",
+      "lname": "singh",
+      "username": "Anuj",
+      "email": "abc@gmail.com",
+      "password": "Abc@1999",
+      "cpassword": "Abc@1999"
+    },
+    {
+      "id": 4,
+      "fname": "Felix",
+      "lname": "Mathew",
+      "username": "Matrix",
+      "email": "fm@gmail.com",
+      "password": "Pass@1234",
+      "cpassword": "Pass@1234"
+    },
+    {
+      "id": 5,
+      "fname": "Vinayak",
+      "lname": "Chavan",
+      "username": "vinay",
+      "email": "vinayak.chavan@neosoftmail.com",
+      "password": "Pass@1998",
+      "cpassword": "Pass@1998"
+    }
+  ]
+}
